@@ -1,0 +1,4 @@
+production:
+  server: "https://server-name.herokuapp.com/faye"
+  secret_token: "secret-token"
+  signature_expiration: 3600 # one hour
